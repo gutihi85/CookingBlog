@@ -1,0 +1,351 @@
+[
+  [
+    {
+      "ingredient_quantity": "130 g",
+      "ingredient_name": "unsalted butter",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "350 g",
+      "ingredient_name": "ripe bananas",
+      "ingredient_type": "Fruit"
+    },
+    {
+      "ingredient_quantity": "150 g",
+      "ingredient_name": "sugar",
+      "ingredient_type": "Sweets"
+    },
+    {
+      "ingredient_quantity": "2",
+      "ingredient_name": "eggs",
+      "ingredient_type": "Protein"
+    },
+    {
+      "ingredient_quantity": "220 g",
+      "ingredient_name": "plain flour",
+      "ingredient_type": "Baking"
+    },
+    {
+      "ingredient_quantity": "2 tsp",
+      "ingredient_name": "baking powder",
+      "ingredient_type": "Baking"
+    },
+    {
+      "ingredient_quantity": "1 pinch",
+      "ingredient_name": "salt",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "baking soda",
+      "ingredient_type": "Baking"
+    },
+    {
+      "ingredient_quantity": "100 g",
+      "ingredient_name": "buttermilk",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "2 tsp",
+      "ingredient_name": "natural vainilla extract",
+      "ingredient_type": "Baking"
+    }
+  ],
+  [
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "dried chilli flakes",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "smoked paprika",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "mustard powder",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1/4 tsp",
+      "ingredient_name": "fine sea salt",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1/4 tsp",
+      "ingredient_name": "ground black pepper",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "450 g",
+      "ingredient_name": "pork fillet",
+      "ingredient_type": "Protein"
+    },
+    {
+      "ingredient_quantity": "700 g + 1 Tbsp",
+      "ingredient_name": "water",
+      "ingredient_type": "Drink"
+    },
+    {
+      "ingredient_quantity": "70 g",
+      "ingredient_name": "barbecue sauce",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "2 tsp",
+      "ingredient_name": "Dijon mustard",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "cider vinegar",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "4",
+      "ingredient_name": "brioche burger buns",
+      "ingredient_type": "Breads"
+    }
+  ],
+  [
+    {
+      "ingredient_quantity": "80 g",
+      "ingredient_name": "cheddar cheese",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "6",
+      "ingredient_name": "eggs",
+      "ingredient_type": "Protein"
+    },
+    {
+      "ingredient_quantity": "2 Tbsp",
+      "ingredient_name": "double cream",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "2",
+      "ingredient_name": "spring onions",
+      "ingredient_type": "Vegetable"
+    },
+    {
+      "ingredient_quantity": "1/2 tsp",
+      "ingredient_name": "dried parsley",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1 pinch",
+      "ingredient_name": "ground black pepper",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1 Tbsp",
+      "ingredient_name": "olive oil",
+      "ingredient_type": "oil"
+    },
+    {
+      "ingredient_quantity": "6 slices",
+      "ingredient_name": "bacon",
+      "ingredient_type": "Protein"
+    },
+    {
+      "ingredient_quantity": "80 g",
+      "ingredient_name": "fresh spinach",
+      "ingredient_type": "Vegetable"
+    }
+  ],
+  [
+    {
+      "ingredient_quantity": "2",
+      "ingredient_name": "cucumbers",
+      "ingredient_type": "Fruit"
+    },
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "fine sea salt",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1",
+      "ingredient_name": "garlic cloves",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1 sprig",
+      "ingredient_name": "fresh dill",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "350 g",
+      "ingredient_name": "greek style natural yogurt",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "20 g",
+      "ingredient_name": "lemon juice",
+      "ingredient_type": "Fruit"
+    },
+    {
+      "ingredient_quantity": "30 g",
+      "ingredient_name": "extra virgin olive oil",
+      "ingredient_type": "Oil"
+    },
+    {
+      "ingredient_quantity": "1 pinch",
+      "ingredient_name": "ground black pepper",
+      "ingredient_type": "Condiment"
+    }
+  ],
+  [
+    {
+      "ingredient_quantity": "6 oz",
+      "ingredient_name": "unsalted butter",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "2 oz",
+      "ingredient_name": "cream cheese",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "2",
+      "ingredient_name": "eggs",
+      "ingredient_type": "Protein"
+    },
+    {
+      "ingredient_quantity": "5 oz",
+      "ingredient_name": "brown sugar",
+      "ingredient_type": "Sweets"
+    },
+    {
+      "ingredient_quantity": "3 1/2 oz",
+      "ingredient_name": "sugar",
+      "ingredient_type": "Sweets"
+    },
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "vainilla",
+      "ingredient_type": "Baking"
+    },
+    {
+      "ingredient_quantity": "10 oz",
+      "ingredient_name": "all-purpose flour",
+      "ingredient_type": "Baking"
+    },
+    {
+      "ingredient_quantity": "1 tsp",
+      "ingredient_name": "baking soda",
+      "ingredient_type": "Baking"
+    },
+    {
+      "ingredient_quantity": "1/2 tsp",
+      "ingredient_name": "salt",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "10 oz",
+      "ingredient_name": "bittersweet chocolate chunks",
+      "ingredient_type": "Sweets"
+    },
+    {
+      "ingredient_quantity": "To serve",
+      "ingredient_name": "vainilla ice cream",
+      "ingredient_type": "Sweets"
+    }
+  ],
+  [
+    {
+      "ingredient_quantity": "75 g",
+      "ingredient_name": "parmesan cheese",
+      "ingredient_type": "Dairy"
+    },
+    {
+      "ingredient_quantity": "3-4 sprigs",
+      "ingredient_name": "fresh tarragon",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "90 g",
+      "ingredient_name": "shallots",
+      "ingredient_type": "vegetable"
+    },
+    {
+      "ingredient_quantity": "3",
+      "ingredient_name": "garlic cloves",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "40 g",
+      "ingredient_name": "extra virgin olive oil",
+      "ingredient_type": "Oil"
+    },
+    {
+      "ingredient_quantity": "200 g",
+      "ingredient_name": "tinned choped tomatoes",
+      "ingredient_type": "vegetable"
+    },
+    {
+      "ingredient_quantity": "350 g",
+      "ingredient_name": "risotto rice",
+      "ingredient_type": "Cereal"
+    },
+    {
+      "ingredient_quantity": "30 g",
+      "ingredient_name": "brandy",
+      "ingredient_type": "Drink"
+    },
+    {
+      "ingredient_quantity": "1/4 tsp",
+      "ingredient_name": "ground cayenne pepper",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "2 tsp",
+      "ingredient_name": "fine sea salt",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "1/4 tsp",
+      "ingredient_name": "ground black pepper",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "200 g",
+      "ingredient_name": "lobster tail meat",
+      "ingredient_type": "Protein"
+    },
+    {
+      "ingredient_quantity": "4",
+      "ingredient_name": "fresh chives",
+      "ingredient_type": "Condiment"
+    }
+  ],
+  [
+    {
+      "ingredient_quantity": "100 g",
+      "ingredient_name": "mixed whole nuts",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "300 g",
+      "ingredient_name": "rolled oats",
+      "ingredient_type": "Cereal"
+    },
+    {
+      "ingredient_quantity": "80 g",
+      "ingredient_name": "mixed seeds",
+      "ingredient_type": "Condiment"
+    },
+    {
+      "ingredient_quantity": "100 g",
+      "ingredient_name": "dried fruit",
+      "ingredient_type": "Fruit"
+    },
+    {
+      "ingredient_quantity": "120 - 160 g",
+      "ingredient_name": "maple syrup or honey",
+      "ingredient_type": "Sweets"
+    }
+  ]
+]
