@@ -16,7 +16,7 @@ const seedDatabase = async () => {
 
   await Recipes.bulkCreate(recipeData);
   await Course.bulkCreate(courseData);
-  await Ingredients.bulkCreate(ingredientsData);
+  // await Ingredients.bulkCreate(ingredientsData);
 
   process.exit(0);
 };

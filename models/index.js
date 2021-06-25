@@ -18,10 +18,9 @@ Mainrecipes.hasMany(Recipes, {
 
 
 // Recipes hasMany Ingredients
-Recipes.hasMany(Ingredients, {
-    foreignKey: 'ingredients_id',
-})
+Recipes.hasMany(Ingredients)
 
+Ingredients.belongsTo(Recipes)
 
 // // Course hasMany Recipes
 Course.hasMany(Recipes, {
