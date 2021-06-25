@@ -21,10 +21,10 @@ Recipes.init(
       type: DataTypes.STRING,
     }, 
     prep_time: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
     },
     cook_time: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
     }
   },
   {
