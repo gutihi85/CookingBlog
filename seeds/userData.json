@@ -1,36 +1,36 @@
 [
   {
-    "name": "Gordon Ramsay",
+    "username": "Gordon Ramsay",
     "email": "gordon@email.com",
     "password": "password12345"
   },
   {
-    "name": "Guy Fieri",
+    "username": "Guy Fieri",
     "email": "guy@gmail.com",
     "password": "password12"
   },
   {
-    "name": "Bobby Flay",
+    "username": "Bobby Flay",
     "email": "bobby@email.com",
     "password": "p12345d"
   },
   {
-    "name": "Jamie Oliver",
+    "username": "Jamie Oliver",
     "email": "jamie@gmail.com",
     "password": "jampassword1"
   },
   {
-    "name": "Giada de Laurentiis",
+    "username": "Giada de Laurentiis",
     "email": "giada@email.com",
     "password": "giadpassword2"
   },
   {
-    "name": "Rachel Ray",
+    "username": "Rachel Ray",
     "email": "rachel@email.com",
     "password": "rach0987"
   },
   {
-    "name": "Buddy Balastro",
+    "username": "Buddy Balastro",
     "email": "rbuddy@gmail.com",
     "password": "cakeboss21"
   }

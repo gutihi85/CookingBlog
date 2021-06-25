@@ -1,5 +1,5 @@
 [
-  [
+  
     {
       "ingredient_quantity": "130 g",
       "ingredient_name": "unsalted butter",
@@ -49,9 +49,7 @@
       "ingredient_quantity": "2 tsp",
       "ingredient_name": "natural vainilla extract",
       "ingredient_type": "Baking"
-    }
-  ],
-  [
+    },
     {
       "ingredient_quantity": "1 tsp",
       "ingredient_name": "dried chilli flakes",
@@ -106,9 +104,7 @@
       "ingredient_quantity": "4",
       "ingredient_name": "brioche burger buns",
       "ingredient_type": "Breads"
-    }
-  ],
-  [
+    },
     {
       "ingredient_quantity": "80 g",
       "ingredient_name": "cheddar cheese",
@@ -153,9 +149,7 @@
       "ingredient_quantity": "80 g",
       "ingredient_name": "fresh spinach",
       "ingredient_type": "Vegetable"
-    }
-  ],
-  [
+    },
     {
       "ingredient_quantity": "2",
       "ingredient_name": "cucumbers",
@@ -195,9 +189,7 @@
       "ingredient_quantity": "1 pinch",
       "ingredient_name": "ground black pepper",
       "ingredient_type": "Condiment"
-    }
-  ],
-  [
+    },
     {
       "ingredient_quantity": "6 oz",
       "ingredient_name": "unsalted butter",
@@ -252,9 +244,7 @@
       "ingredient_quantity": "To serve",
       "ingredient_name": "vainilla ice cream",
       "ingredient_type": "Sweets"
-    }
-  ],
-  [
+    },
     {
       "ingredient_quantity": "75 g",
       "ingredient_name": "parmesan cheese",
@@ -319,9 +309,7 @@
       "ingredient_quantity": "4",
       "ingredient_name": "fresh chives",
       "ingredient_type": "Condiment"
-    }
-  ],
-  [
+    },
     {
       "ingredient_quantity": "100 g",
       "ingredient_name": "mixed whole nuts",
@@ -347,5 +335,4 @@
       "ingredient_name": "maple syrup or honey",
       "ingredient_type": "Sweets"
     }
-  ]
 ]

@@ -8,12 +8,12 @@ const Ingredients = require('./Ingredients');
 
 // // Users hasMany Recipes
 Users.hasMany(Recipes, {
-    foreignKey: 'recipes_id',
+    foreignKey: 'recipe_id',
 })
 
 // Recipes hasMany Mainrecipes
 Mainrecipes.hasMany(Recipes, {
-    foreignKey: 'recipes_id',
+    foreignKey: 'recipe_id',
 })
 
 
@@ -24,12 +24,15 @@ Ingredients.belongsTo(Recipes)
 
 // // Course hasMany Recipes
 Course.hasMany(Recipes, {
-    foreignKey: 'recipes_id',
+    foreignKey: 'course_id',
 })
+
+ Recipes.belongsTo(Course)
+
 
 // // MyFavorites belongsTo Recipe
 Myfavorites.hasMany(Recipes, {
-    foreignKey: 'recipes_id',
+    foreignKey: 'recipe_id',
 })
 
 

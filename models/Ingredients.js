@@ -6,11 +6,12 @@ class Ingredients extends Model {}
 Ingredients.init(
 
     {
-      id: {
+     recipeingredients_id: {
         type: DataTypes.INTEGER,
-        allowNull: false,
-        primaryKey: true,
-        autoIncrement: true,
+        references: {
+          model: 'recipes',
+          key: 'id',
+        },
       },
       // this is a string in order to add the measures eg 130 g
       ingredient_quantity: {

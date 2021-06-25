@@ -1,2 +1,36 @@
 <h1> This is the recipes side!</h1>
 <p> Here are all the recipes</p>
+
+{{#each examples as |example|}}
+  <p>{{example.name}}</p>
+{{/each}}
+
+
+<header>
+  <img src="" alt="Cookingorama Logo">
+  <button class="log-out">LOG OUT</button>
+</header>
+{{!-- //Recipe Name  --}}
+<div class="recipe-name">
+    <h1>{{{recipe_name}}}</h1>
+</div>
+{{!-- Recipe Image --}}
+<div class="recipe_photo">
+    {{!-- <a href=""><img src="/" alt="recipe_name"></a> --}}
+</div>
+<div>
+  <div class="ingredient">
+    <h2>Ingredients</h2>
+    <ul class="ingredient-list">
+      <li>{{#each ingredients as |ingredient|}}
+  <p>{{example.name}}</p>
+{{/each}} </li>
+    </ul>
+  </div>
+  <div class="recipe">
+    <h2>Recipe Steps go here</h2>
+  </div>
+</div>
+
+  <button class="add_favorites">Add to Favorites</button>
+  
